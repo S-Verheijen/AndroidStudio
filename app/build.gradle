@@ -30,4 +30,7 @@ dependencies {
 
     //add mobile vision dependency
     implementation 'com.google.android.gms:play-services-vision:9.4.0'
+    implementation 'me.dm7.barcodescanner:zxing:1.9'
+    implementation 'com.android.support:appcompat-v7:27.+'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
 }
